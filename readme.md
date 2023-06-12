@@ -1,6 +1,6 @@
 # Ignite CLI
 
-!Ignite(/assets/ignite-cli.png)
+![Ignite CLI](/assets/ignite-cli.png)
 
 [Ignite CLI](https://ignite.com/cli) is the all-in-one platform to build,
 launch, and maintain any crypto application on a sovereign and secured
